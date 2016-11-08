@@ -1,0 +1,24 @@
+; good: 40065, 40076, 40082 40087, 40124, 40275
+; git: 40183, 40407, 40429
+
+40183 => http://github.com/vslavik/xmlwrapp/downloads</download_url
+40548 => http://www.zmslabs.org
+40556 => https://github.com/jberger/Zoidberg
+40571 => https://sourceforge.net/project/showfiles.php?group_id=69353
+40616 => http://sf.net/projects/pam-mount/files/
+40643 => http://sourceforge.net/projects/pageforward/files/
+40663 => http://packjacket.sf.net/download/
+40693 => http://sourceforge.net/projects/parp/files/
+40884 => http://sourceforge.net/project/showfiles.php?group_id=216180
+40903 => http://www.msn.com
+40970 => http://svn.berlios.de/wsvn/r3s
+40980 => http://open.comsultia.com/docbook2odf/download
+41001 => http://pypi.python.org/pypi?:action=display&name=Enable
+41166 => http://code.google.com/p/chieftain/downloads/list
+41190 => http://code.google.com/p/cnpack/downloads/list
+41222 => https://sourceforge.net/projects/avto/files/
+41278 => http://nclass.sourceforge.net/downloads.html
+41281 => http://sourceforge.net/projects/qof-jdbc/files/
+40429 => http://www.icegreen.com/greenmail/#download
+40429 => http://www.icegreen.com/greenmail/#download
+1 => http://subversion.apache.org/packages.html
